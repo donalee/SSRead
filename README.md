@@ -1,4 +1,4 @@
-# Structural Semantic Readout Layer for Graph Neural Networks
+# SSRead: Structural Semantic Readout Layer for Graph Neural Networks
 
 - This is the author code of ["Learnable Structural Semantic Readout for Graph Classification (ICDM 2021)"](https://arxiv.org/abs/2111.11523).
 
